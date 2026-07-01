@@ -1,0 +1,1 @@
+The system communicates and coordinates actions by passing messages The system appears as one
